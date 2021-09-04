@@ -9,6 +9,5 @@ My name is **Alessandro Farace** and I am a 3rd year student at the **University
 
 ---
 
-### 🔭 I’m currently working on: **Final Year Dissertation** + **Cambridge GDSC**
-
-### 🌱 I’m currently learning: **Geometric Deep Learning**
+- 🔭 I’m currently working on: **Final Year Dissertation** + **Cambridge GDSC**
+- 🌱 I’m currently learning: **Geometric Deep Learning**
