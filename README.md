@@ -9,6 +9,6 @@ My name is **Alessandro Farace** and I am a 3rd year student at the **University
 
 ---
 
-- 🔭 I’m currently working on: **Final Year Dissertation** + [GDSC University of Cambridge](https://gdsc.community.dev/university-of-cambridge/)
-- 🌱 I’m currently learning: **Geometric Deep Learning**
-- 💪 I'm currently competing in: [Lux AI](https://www.kaggle.com/c/lux-ai-2021)
+- 🔭 I’m currently working on: **Final Year Dissertation**
+- 🌱 I’m currently learning: [Bioinformatics](https://github.com/A-F-V/Bioinformatics), **Geometric Deep Learning**, **Denotational Semantics**, **Type Theory**, **Category Theory**
+- 💪 I'm currently competing in: Citadel Data Open
