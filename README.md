@@ -11,7 +11,7 @@ My name is **Alessandro Farace** and I am a 3rd year student at the **University
 
 - 🔭 I’m currently working on: **Final Year Dissertation** on [XAI for Cancer Diagnosis](https://github.com/A-F-V/XAI-Cancer-Diagnosis)
 - 🌱 I’m currently learning: **Geometric Deep Learning**, **Computer Vision**
-- 💪 I'm currently competing in: -
+- 💪 I'm currently competing in: Nothing. Collaborating instead.
 
 # Past Projects
 - Implementation of algorithms from the [Bioinformatics](https://github.com/A-F-V/Bioinformatics) course
