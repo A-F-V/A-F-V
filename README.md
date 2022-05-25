@@ -9,11 +9,12 @@ My name is **Alessandro Farace** and I am a 3rd year student at the **University
 
 ---
 
-- 🔭 I’m currently working on: **Final Year Dissertation** on [XAI for Cancer Diagnosis](https://github.com/A-F-V/XAI-Cancer-Diagnosis)
-- 🌱 I’m currently learning: **Quantum Computing**, **Machine Learning and Bayesian Inference**, **Information Theory**, **Cryptography**, **Cloud Computing**, **Randomised Algorithms**, **Geometric Deep Learning**, **Computer Vision**
-- 💪 I'm currently competing in: Nothing. Collaborating instead.
+- 🔭 I’m currently working on: **Final Year Exams**.
+- 🌱 I’m currently learning: **Hoare Logic**, **Model Checking**.
+- 💪 I'm currently competing in: **Nothing. Collaborating instead.**
 
 # Past Projects
+- [Explainable AI for Cancer Diagnosis](https://github.com/A-F-V/XAI-Cancer-Diagnosis). I achieved this by anaylsing **cell graphs** with a GNN and then explaining predicitions post-hoc with [GCExplainer](https://arxiv.org/abs/2107.11889)
 - Implementation of algorithms from the [Bioinformatics](https://github.com/A-F-V/Bioinformatics) course
 
 ---
