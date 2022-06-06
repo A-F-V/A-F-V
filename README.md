@@ -2,10 +2,10 @@
 Hello 👋!
 
 My name is **Alessandro Farace** and I am a 3rd year student at the **University of Cambridge** studying **Computer Science**, and enjoy working at the intersection of CS and other disciplines. I carry a broad set of CS interests which gives me the flexibility to work on many different projects. These include:
-- Machine Learning, Deep Learning, and AI
-- Cryptography, Security, and Blockchain
-- Quantum Computing
-- Algorithms (with a liking for competitive programming).
+- **Machine Learning, Deep Learning, and AI**
+- **Cryptography, Security, and Blockchain**
+- **Quantum Computing**
+- **Algorithms** (with a enjoyment for competitive programming).
 
 ---
 # Contact & Links:
