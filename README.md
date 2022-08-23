@@ -10,12 +10,11 @@ My name is **Alessandro Farace** and I am a 3rd year student at the **University
 ---
 # Contact & Links:
 - 📝 [CV](https://github.com/A-F-V/A-F-V/blob/main/AFV_CV.pdf)
-- <img src="https://avatars.githubusercontent.com/u/65011256?s=200&v=4" alt="obsidian" width="20"/> [The Moon](https://publish.obsidian.md/afv) - My Public Obsidian Vault
 
 ---
 
-- 🔭 I’m currently working on: **Final Year Exams**.
-- 🌱 I’m currently learning: **Hoare Logic**, **Model Checking**.
+- 🔭 I’m currently working on: .
+- 🌱 I’m currently learning: **AWS**, **Terraform**.
 - 💪 I'm currently competing in: **Nothing. Collaborating instead.**
 
 ---
