@@ -1,7 +1,7 @@
-# **Alessandro Farace** 
+# **A-F-V** 
 Hello 👋!
 
-My name is **Alessandro Farace** and I am a 3rd year student at the **University of Cambridge** studying **Computer Science**, and enjoy working at the intersection of CS and other disciplines. I carry a broad set of CS interests which gives me the flexibility to work on many different projects. These include:
+My name is **Alessandro** and I am a **Computer Science** graduate, and enjoy working at the intersection of CS and other disciplines. I carry a broad set of CS interests which gives me the flexibility to work on many different projects. These include:
 - **Machine Learning, Deep Learning, and AI**
 - **Cryptography, Security, and Blockchain**
 - **Quantum Computing**
@@ -9,14 +9,15 @@ My name is **Alessandro Farace** and I am a 3rd year student at the **University
 
 ---
 # Contact & Links:
-- 📝 [CV](https://github.com/A-F-V/A-F-V/blob/main/AFV_CV.pdf)
+- ✍️ [Blog](https://afv.codes)
 
 ---
 
-- 🔭 I’m currently working on: .
-- 🌱 I’m currently learning: **AWS**, **Terraform**.
-- 💪 I'm currently competing in: **Nothing. Collaborating instead.**
+- 🌱 I’m currently learning: **C++**.
 
+<!-- - 💪 I'm currently competing in: **Nothing. Collaborating instead.**
+- 🔭 I’m currently working on: .
+-->
 ---
 # Past Projects
 - [Explainable AI for Cancer Diagnosis](https://github.com/A-F-V/XAI-Cancer-Diagnosis). I achieved this by anaylsing **cell graphs** with a GNN and then explaining predicitions post-hoc with [GCExplainer](https://arxiv.org/abs/2107.11889)
