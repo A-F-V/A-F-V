@@ -8,10 +8,6 @@ My name is **Alessandro** and I am a **Computer Science** graduate, and enjoy wo
 - **Algorithms** (with a enjoyment for competitive programming).
 
 ---
-# Contact & Links:
-- ✍️ [Blog](https://afv.codes)
-
----
 
 - 🌱 I’m currently learning: **C++**.
 
