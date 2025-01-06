@@ -1,5 +1,5 @@
 # Hello 👋
-🔭 I’m currently working on: [Janus[(https://janus.cards) - An AI Flashcard Generator for Readwise + Obsidian -> Anki + Mochi
+🔭 I’m currently working on: [Janus](https://janus.cards) - An AI Flashcard Generator for Readwise + Obsidian -> Anki + Mochi
 
 ---
 # Past Projects
